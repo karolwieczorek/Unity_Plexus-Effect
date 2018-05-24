@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb434f60e7ca1b343afe7733f5c7130c, type: 3}
+  m_Name: PlexusEffectData_orange
+  m_EditorClassIdentifier: 
+  maxDistance: 3.84
+  width: 0.01
+  maxConnections: 54
+  maxLineRenderers: 100
+  lineRendererTemplate: {fileID: 120796057605661386, guid: 7d082313b2284e441847106b2c1b851c,
+    type: 2}
+  lineRendererMaterial: {fileID: 2100000, guid: e544bb9d05248ae47abb8bb11028fb90,
+    type: 2}
