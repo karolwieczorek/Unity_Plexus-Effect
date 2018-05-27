@@ -1,6 +1,6 @@
 # Unity_Plexus-Effect
 
-![Gif](https://i.imgur.com/lViTogn.gif)
+![Gif](https://i.imgur.com/Q6BAQuP.gif)
 
 Testing particles from Mirza Plexus Effect tutorial
 
