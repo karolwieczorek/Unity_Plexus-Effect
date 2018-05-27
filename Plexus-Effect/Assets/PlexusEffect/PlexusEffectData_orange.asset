@@ -11,9 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fb434f60e7ca1b343afe7733f5c7130c, type: 3}
   m_Name: PlexusEffectData_orange
   m_EditorClassIdentifier: 
-  maxDistance: 3.84
-  width: 0.01
-  maxConnections: 54
+  maxDistance: 3
+  width: 0.015
+  maxConnections: 3
   maxLineRenderers: 100
   lineRendererTemplate: {fileID: 120796057605661386, guid: 7d082313b2284e441847106b2c1b851c,
     type: 2}
